@@ -19,7 +19,7 @@ function App() {
             authUser ? (
               // <div className="flex h-screen">
               //   <Left /> test
-              //   <Right />
+              //   <Right /> hello 
               // </div>
               <div className="drawer lg:drawer-open">
                 <input
